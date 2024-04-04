@@ -1,6 +1,8 @@
 package FontesAppElevador;
 
 //Classe de entidade - Elevador de edifício
+//Automação do elevador
+
 public class Elevador {
 	
 	int id;
